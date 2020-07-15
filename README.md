@@ -2,7 +2,7 @@
 PowerBI public information and useful material
 
 # PowerBI Desktop External Tools
-<br/> - Tabular Editor Playlist - https://www.youtube.com/playlist?list=PLn1m_aBmgsbGvz4SsmO_fkeThjDUSWFkf
+- Tabular Editor Playlist - https://www.youtube.com/playlist?list=PLn1m_aBmgsbGvz4SsmO_fkeThjDUSWFkf
 <br/> - Intro to Tabular Editor - https://www.youtube.com/watch?v=c-jZMzsvKnM&list=PLn1m_aBmgsbGvz4SsmO_fkeThjDUSWFkf&index=2&t=2393s
 <br/> - Using Scripts in Tabular Editor - https://www.youtube.com/watch?v=EHs5r3XCkO8&list=PLn1m_aBmgsbGvz4SsmO_fkeThjDUSWFkf&index=3&t=1761s
 <br/> - Best Practice Analyzer in Tabular Editor - https://www.youtube.com/watch?v=5WnN0NG2nBk&list=PLn1m_aBmgsbGvz4SsmO_fkeThjDUSWFkf&index=4&t=0s
@@ -15,7 +15,7 @@ PowerBI public information and useful material
 <br/> - DAX Studio Query Performance Tuning - Part 4 - https://www.youtube.com/watch?v=d6ppyWQU-f0&list=PLn1m_aBmgsbGDZb7ydd8_LS1AfosdRndQ&index=5&t=13s
 
 # PowerBI and SAP
-<br/> - Power BI and SAP Whitepaper - https://aka.ms/powerbiandsapbw
+- Power BI and SAP Whitepaper - https://aka.ms/powerbiandsapbw
 <br/> - Power BI to SAP Connectivity - https://www.youtube.com/watch?v=l47_u_n7XVc
 <br/> - SAP BW connector MS documentation - https://docs.microsoft.com/en-us/power-bi/connect-data/desktop-sap-bw-connector
 <br/> - Power BI SAP Connectors - https://www.youtube.com/channel/UC1ouMX7tTCbvTqdbHJNnS1A/search?query=sap 
