@@ -2,7 +2,7 @@
 Power BI public information and useful materials
 
 # Power BI Learning Material
-- Power BI DA100 Certifiaction – MS Learn - Free - https://docs.microsoft.com/en-us/learn/browse/?products=power-bi
+- Power BI DA100 certification – MS Learn - Free - https://docs.microsoft.com/en-us/learn/browse/?products=power-bi
 - Power BI guided learning - Free - https://docs.microsoft.com/en-us/power-bi/guided-learning/
 - Analyzing and Visualizing Data with Power BI - Free - https://www.edx.org/course/analyzing-and-visualizing-data-with-power-bi-3
 - Introductory DAX - Free - https://www.sqlbi.com/p/introducing-dax-video-course/
