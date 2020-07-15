@@ -1,5 +1,14 @@
 # PowerBI
-PowerBI public information and useful material
+PowerBI public information and useful materials
+
+# PowerBI Controls and Governance
+- PowerBI Security whitepaper - https://docs.microsoft.com/en-us/power-bi/service-admin-power-bi-security
+- PowerBI Authentication through AAD - https://docs.microsoft.com/en-us/power-bi/service-admin-power-bi-security#user-authentication
+- PowerBI Tenant Settings - https://docs.microsoft.com/en-us/power-bi/service-admin-portal
+- PowerBI Workspaces - https://docs.microsoft.com/en-us/power-bi/service-create-the-new-workspaces
+- PowerBI RBAC in workspace - https://docs.microsoft.com/en-us/power-bi/service-new-workspaces#roles-in-the-new-workspaces
+- PowerBI Microsoft Information Protection and Cloud App Security Integration - https://docs.microsoft.com/en-us/power-bi/admin/service-security-data-protection-overview
+- PowerBI Audit Logs - https://docs.microsoft.com/en-us/power-bi/service-admin-auditing
 
 # PowerBI Desktop External Tools
 - Tabular Editor Playlist - https://www.youtube.com/playlist?list=PLn1m_aBmgsbGvz4SsmO_fkeThjDUSWFkf
