@@ -67,5 +67,5 @@ Power BI public information and useful materials
 - Power BI Aggregations Step 3: Configure Aggregation Functions and Test Aggregations in Action - https://radacad.com/power-bi-aggregations-step-3-configure-aggregation-functions-and-test-aggregations-in-action
 - Multiple Layers of Aggregations in Power BI; Model Responds Even Faster - https://radacad.com/multiple-layers-of-aggregations-in-power-bi-model-responds-even-faster
 
-#Power BI and Visualization
+# Power BI and Visualization
 - Creating awesome PBI Backgrounds - https://www.youtube.com/watch?v=nXRTgbtSAok&feature=youtu.be
